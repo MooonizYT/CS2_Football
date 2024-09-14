@@ -1,7 +1,7 @@
 ## Description:
-This plugin allows you to play Football in CS2. Match can be started both manually and automatically. It is customizable and you can run it with your own Football maps too.
+This plugin allows you to play Football in CS2.
 
-**This plugin was made possible with the help of SLAYER**
+**This plugin was made possible with the help of [SLAYER](https://github.com/zakriamansoor47)**
 
 ## Gameplay:
 https://www.youtube.com/watch?v=yfltZoMH2Ts
